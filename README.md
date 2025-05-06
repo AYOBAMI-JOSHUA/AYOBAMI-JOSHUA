@@ -1,12 +1,9 @@
 ## Hi, i'm Joshua👋
 
-🧠 Mathematics science student at university of lagos
-🎯 Frontend Developer
-💻 I create themed website and web application to stay consistent
+🧠 Mathematics science student at university of lagos<br>
+🎯 Frontend Developer<br>
+💻 I create themed website and web application to stay consistent<br>
 🔗 you can reach me on [linkedIn](https://www.linkedin.com/in/joshua-ayobami-203066275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) and [X](https://x.com/your_fav_tecbro?s=21)
-
-# 💫 About Me:
-Hi, i'm Joshua👋<br><br>🧠 Mathematics science student at university of lagos<br>🎯 Frontend Developer<br>💻 I create themed website and web application to stay consistent<br>🔗 you can reach me on [linkedIn]()
 
 
 ## 🌐 Socials:
